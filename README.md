@@ -1,7 +1,7 @@
 
   # Home Dashboard Design
 
-  This is a code bundle for Home Dashboard Design. The original project is available at https://www.figma.com/design/qUvAUJN2jLMNkZy9X054Mv/Home-Dashboard-Design.
+  This is a code bundle for Home Dashboard Design. This is generated using figma make
 
   ## Running the code
 
